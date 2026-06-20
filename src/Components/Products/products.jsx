@@ -14,7 +14,7 @@ function Products(){
           </h1>
 
           <p className="mt-6 text-lg text-gray-300">
-            Here's varrieties of Prodcuts that's we shipped , and you can order it , customize it
+            Here's varrieties of Products that's we Exported , and you can order it in bulk quantity 
           </p>
 
         </div>

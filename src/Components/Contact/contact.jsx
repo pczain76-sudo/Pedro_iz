@@ -95,7 +95,7 @@ const [subject,setSubject] = useState(productName || "");
                   Phone
                 </h3>
                 <p className="text-gray-600">
-                  +92 302 6389629
+                  +92 344 4692842
                 </p>
               </div>
 
