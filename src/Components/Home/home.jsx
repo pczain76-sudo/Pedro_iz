@@ -1,5 +1,6 @@
-import Contact from "../../../../React_Router/src/components/contact/contact"
+
 import { Link } from "react-router-dom";
+import Contact from "../Contact/contact";
 function Home() {
   return (
     <main>
