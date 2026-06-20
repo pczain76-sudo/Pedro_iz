@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Contact from "../../../React_Router/src/components/contact/contact";
+
 
 function ProductCard({ image, name, description }) {
   return (
